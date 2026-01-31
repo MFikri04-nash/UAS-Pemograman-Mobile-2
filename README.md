@@ -7,3 +7,5 @@ Selanjutnya, pengguna dapat melakukan Register untuk membuat akun atau Login jik
 
 Aplikasi ini juga memiliki fitur Stock Report untuk melihat laporan stok secara detail, serta Stock History yang mencatat riwayat keluar dan masuknya barang. Selain itu, terdapat fitur Profile yang digunakan untuk melihat informasi akun pengguna.
 "
+
+" https://drive.google.com/drive/u/1/folders/1--dWxPmq2E3Z4sRUX9fWDLzmWqH-JqqZ"
